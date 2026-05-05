@@ -7,3 +7,9 @@ topics:
   - 個人開発
 price: 0
 published: true
+chapters:
+  - 1_overview
+  - 2_data_design
+  - 3_nextjs_architecture
+  - 4_supabase_auth
+  - 5_seo_monetize
