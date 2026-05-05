@@ -1,0 +1,9 @@
+title: "不動産投資データサービスをNext.js×Supabaseで作った全記録"
+summary: "東京の再開発プロジェクト82件を追跡するデータプラットフォーム「PropAnalytics」の開発記録。Next.js 15 App Router・Supabase・Stripe・Claude AI・Vercelを組み合わせて収益化まで持っていくまでの設計判断・実装・SEO戦略をすべて公開する。"
+topics:
+  - nextjs
+  - supabase
+  - typescript
+  - 個人開発
+price: 0
+published: false
