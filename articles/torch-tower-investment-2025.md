@@ -3,7 +3,7 @@ title: "TORCH TOWER投資分析2025｜スコア97点の根拠と周辺不動産�
 emoji: "🗼"
 type: "idea"
 topics: ["不動産投資", "東京", "再開発", "データ分析"]
-published: false
+published: true
 ---
 
 ## はじめに

@@ -3,7 +3,7 @@ title: "Vercel Cron × Resendでニュースレターとアラートメールを
 emoji: "📨"
 type: "tech"
 topics: ["nextjs", "vercel", "resend", "個人開発", "saas"]
-published: false
+published: true
 ---
 
 ## Vercel Cronとは

@@ -3,7 +3,7 @@ title: "Supabase × Next.jsで7日間トライアル付きSaaSを個人開発す
 emoji: "🚀"
 type: "tech"
 topics: ["supabase", "nextjs", "stripe", "saas", "個人開発"]
-published: false
+published: true
 ---
 
 ## 概要

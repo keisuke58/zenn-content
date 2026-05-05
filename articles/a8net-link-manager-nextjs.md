@@ -3,7 +3,7 @@ title: "個人開発SaaSのアフィリエイト実装：A8.net Link ManagerをN
 emoji: "💰"
 type: "tech"
 topics: ["nextjs", "個人開発", "saas", "収益化"]
-published: false
+published: true
 ---
 
 ## A8.net Link Managerとは

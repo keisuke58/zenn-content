@@ -3,7 +3,7 @@ title: "Next.js App RouterでSSG+SEOページを100枚量産する設計パタ�
 emoji: "📄"
 type: "tech"
 topics: ["nextjs", "seo", "typescript", "個人開発"]
-published: false
+published: true
 ---
 
 ## やったこと
